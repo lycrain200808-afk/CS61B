@@ -1,5 +1,7 @@
 package game2048;
 
+/** Be respectful and polite. */
+
 import java.util.Random;
 
 import ucb.util.CommandArgs;
